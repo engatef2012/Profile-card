@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -21,11 +21,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](./images/Profile-card-component.png)
 
-
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [Demo]()
+- Solution URL: [solution](https://github.com/engatef2012/Profile-card)
+- Live Site URL: [Demo](https://engatef2012.github.io/Profile-card/)
 
 ## My process
 
